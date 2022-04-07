@@ -1,0 +1,2 @@
+# Jaringan_Komputer
+Dalam tugas besar jaringan computer ini, saya menggunakan Bahasa python dan implementasinya menggunakan mininet, untuk membuat topologi dan menganalisis lalu lintas di dalam topologi. Di sini topologi menggunakan 4 router dan 2 host (di mana host A (h0) dan host B (h1). Bandwidth untuk link dari h1 ke router r1, r2 adalah 1Mbps, dari h2 ke router r3 dan r4 adalah 1 Mbps, dari router r2 ke r4 dan dari router r1 ke r3 adalah 500 Kbps, dan dari r1 ke r4 adalah 1 Mbps.
